@@ -1,0 +1,101 @@
+[
+    {
+      "id": "6317b0fcc2c94f395e1208be",
+      "name": "Honda CBR600RR",
+      "description": "The Honda CBR600RR is a 599 cc motorbike made by Honda since 2003, part of the CBR series.",
+      "quantity": 20,
+      "supplier": "Honda",
+      "price": "$1000",
+      "img": "https://wallpaperaccess.com/full/226902.jpg"
+    },
+    {
+      "id": "6317b0fca514231487158415",
+      "name": "Honda CBR600RR",
+      "description": "The Honda CBR600RR is a 599 cc motorbike made by Honda since 2003, part of the CBR series.",
+      "quantity": 20,
+      "supplier": "Honda",
+      "price": "$1010",
+      "img": "https://loveshayariimages.in/wp-content/uploads/2022/07/sports-bike-wallpaper.jpg"
+    },
+    {
+      "id": "6317b0fc65a880453f14eeb0",
+      "name": "KAWASAKI H2R",
+      "description": "Kawasaki Ninja H2R is a super bike available at a starting price of Rs. 79,90,000",
+      "quantity": 1,
+      "supplier": "KAWASAKI",
+      "price": "$1100",
+      "img": "https://wallpaperaccess.com/full/2879723.jpg"
+    },
+    {
+      "id": "6317b0fc1260b511dee1ed14",
+      "name": "KAWASAKI H2R",
+      "description": "The Honda CBR600RR is a 599 cc motorbike made by Honda since 2003, part of the CBR series.",
+      "quantity": 2,
+      "supplier": "Kawasaki",
+      "price": "$1000",
+      "img": "https://www.drivespark.com/images/2020-11/2021-kawasaki-z-h2-se-9.jpg"
+    },
+    {
+      "id": "6317b0fc65e0b072b48c1c4c",
+      "name": "Honda CBR600RR",
+      "description": "The Honda CBR600RR is a 599 cc motorbike made by Honda since 2003, part of the CBR series.",
+      "quantity": 11,
+      "supplier": "Honda",
+      "price": "$1000",
+      "img": "https://swall.teahub.io/photos/small/3-37636_high-resolution-bike-wallpapers-group-all-bike-photos.jpg"
+    },
+    {
+      "id": "6317b0fc34da3ba38600f652",
+      "name": "Honda CBR150R",
+      "description": "The Honda CBR600RR is a 599 cc motorbike made by Honda since 2003, part of the CBR series.",
+      "quantity": 20,
+      "supplier": "Honda",
+      "price": "$1000",
+      "img": "https://wallpapersmug.com/download/3840x2400/6fd911/ducati-panigale-v4-r-4k.jpg"
+    },
+    {
+      "id": "6317b0fce3af20d6b762cab0",
+      "name": "Honda CBR600RR",
+      "description": "The Honda CBR600RR is a 599 cc motorbike made by Honda since 2003, part of the CBR series.",
+      "quantity": 20,
+      "supplier": "Honda",
+      "price": "$1000",
+      "img": "https://wallpapersmug.com/download/3840x2400/6fd911/ducati-panigale-v4-r-4k.jpg"
+    },
+    {
+      "id": "6317b0fc6c72bb0fb48a1d9f",
+      "name": "Honda CBR600RR",
+      "description": "The Honda CBR600RR is a 599 cc motorbike made by Honda since 2003, part of the CBR series.",
+      "quantity": 20,
+      "supplier": "Honda",
+      "price": "$1000",
+      "img": "https://wallpapersmug.com/download/3840x2400/6fd911/ducati-panigale-v4-r-4k.jpg"
+    },
+    {
+      "id": "6317b0fcea0226f1604bdb5d",
+      "name": "Honda CBR600RR",
+      "description": "The Honda CBR600RR is a 599 cc motorbike made by Honda since 2003, part of the CBR series.",
+      "quantity": 20,
+      "supplier": "Honda",
+      "price": "$1000",
+      "img": "https://wallpapersmug.com/download/3840x2400/6fd911/ducati-panigale-v4-r-4k.jpg"
+    },
+    {
+      "id": "6317b0fcbe6a1078dacf41af",
+      "name": "Honda CBR600RR",
+      "description": "The Honda CBR600RR is a 599 cc motorbike made by Honda since 2003, part of the CBR series.",
+      "quantity": 20,
+      "supplier": "Honda",
+      "price": "$1000",
+      "img": "https://wallpapersmug.com/download/3840x2400/6fd911/ducati-panigale-v4-r-4k.jpg"
+    },
+    {
+      "id": "6317b0fca831f217d1986e4d",
+      "name": "Honda CBR600RR",
+      "description": "The Honda CBR600RR is a 599 cc motorbike made by Honda since 2003, part of the CBR series.",
+      "quantity": 20,
+      "supplier": "Honda",
+      "price": "$1000",
+      "img": "https://wallpapersmug.com/download/3840x2400/6fd911/ducati-panigale-v4-r-4k.jpg"
+    }
+  ]

@@ -1,0 +1,44 @@
+[
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+      "name": "HONDA",
+      "description": "Honda Motor Co., Ltd. is a Japanese public multinational conglomerate manufacturer of automobiles, motorcycles, and power equipment, headquartered in Minato, Tokyo, Japan.",
+      "ratings": 4,
+      "img": "https://www.freepnglogos.com/uploads/honda-logo-png/honda-motorcycle-and-scooter-india-wing-13.png"
+    },
+    {
+      "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+      "name": "SUZUKI",
+      "description": "Suzuki Motor Corporation is a Japanese multinational corporation headquartered in Minami-ku, Hamamatsu, Japan. Suzuki manufactures automobiles",
+      "ratings": 4,
+      "img": "https://1000logos.net/wp-content/uploads/2021/04/Suzuki-logo.png"
+    },
+    {
+      "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+      "name": "KAWASAKI",
+      "description": "Kawasaki motorcycles are manufactured by the Motorcycle & Engine division of Kawasaki Heavy Industries.",
+      "ratings": 4,
+      "img": "https://wallpaperaccess.com/full/3080867.jpg"
+    },
+    {
+      "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+      "name": "DUCATI",
+      "description": "Ducati Motor Holding S.p.A. is the motorcycle-manufacturing division of Italian company Ducati, headquartered in Bologna, Italy. The company is directly owned by Italian automotive manufacturer Lamborghini.",
+      "ratings": 4,
+      "img": "https://w7.pngwing.com/pngs/680/155/png-transparent-logo-line-point-brand-font-line-text-logo-ducati-logo.png"
+    },
+    {
+      "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+      "name": "HARLEY-DAVIDSON",
+      "description": "Harley-Davidson, Inc. is an American motorcycle manufacturer headquartered in Milwaukee, Wisconsin, United States. Founded in 1903, it is one of two major American motorcycle manufacturers to survive the Great Depression along with its historical rival, Indian Motorcycles",
+      "ratings": 4,
+      "img": "https://img-new.cgtrader.com/items/2589058/b9b3fccef2/buckle-harley-davidson-cycles-3d-model-obj-3ds-stl-3dm.jpg"
+    },
+    {
+      "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+      "name": "DAIHATSU",
+      "description": "Daihatsu Motor Co., Ltd., commonly known as Daihatsu, is a Japanese automobile manufacturer and one of the oldest surviving Japanese internal combustion engine manufacturers.",
+      "ratings": 4.5,
+      "img": "https://lofrev.net/wp-content/photos/2014/08/Daihatsu-Logo.jpg"
+    }
+]
