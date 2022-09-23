@@ -14,7 +14,7 @@ const YourInventories = () => {
     const img = event.target.image.value;
     const inventory = { name, description, quantity, supplier, price, img };
 
-    fetch("http://localhost:5000/manage", {
+    fetch("https://motor-world-server.herokuapp.com/manage", {
       method: "POST",
 
       headers: {

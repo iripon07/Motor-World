@@ -9,7 +9,7 @@ const ManageInventories = () => {
   const [inventories, setInventories] = useState([]);
 
   useEffect(() => {
-    fetch("http://localhost:5000/manage")
+    fetch("https://motor-world-server.herokuapp.com/manage")
       .then((res) => res.json())
       .then((data) => setInventories(data));
   }, [inventories]);
@@ -21,7 +21,7 @@ const ManageInventories = () => {
   const handleRemoveInventory = _id =>{
     const proceed = window.confirm('Are your sure, want to delete???');
     if(proceed){
-      const url = `http://localhost:5000/manage/${_id}`;
+      const url = `https://motor-world-server.herokuapp.com/manage/${_id}`;
       fetch(url, {
         method: 'DELETE'
       })

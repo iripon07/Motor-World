@@ -1,9 +1,11 @@
 import InventoryCard from "./InventoryCard";
 import 'animate.css';
 import useGetInventories from "../../UseHooks/useGetInventories";
+import { useState } from "react";
 
 const Inventories = () => {
-  const [inventories] = useGetInventories([]);
+  const [inventories, loading, setLoading] = useGetInventories([]);
+  
 
 
   return (
