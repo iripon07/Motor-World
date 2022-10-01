@@ -1,7 +1,5 @@
 import React from "react";
-import { ToastContainer, toast } from 'react-toastify';
-
-  import 'react-toastify/dist/ReactToastify.css';
+import { toast } from 'react-toastify';
 
 const YourInventories = () => {
   const handleAddInventory = (event) => {
@@ -114,7 +112,6 @@ const YourInventories = () => {
           </form>
         </div>
       </div>
-      <ToastContainer />
     </div>
   );
 };

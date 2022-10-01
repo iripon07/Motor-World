@@ -28,7 +28,7 @@ const UpdateInventory = () => {
       .then((res) => res.json())
       .then((data) => {
         
-        // toast("Your Inventory Delivered!!!");
+        toast("Your Inventory Delivered!!!");
       });
       setInput(0)
   };

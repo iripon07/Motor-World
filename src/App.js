@@ -13,8 +13,7 @@ import User from "./Pages/User/User";
 import RequiredAuth from "./Pages/Login/RequiredAuth";
 import UpdateInventory from "./Pages/UpdateInventory/UpdateInventory";
 import MyInventories from "./Pages/MyInventories/MyInventories";
-import { ToastContainer, toast } from 'react-toastify';
-
+import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 function App() {
